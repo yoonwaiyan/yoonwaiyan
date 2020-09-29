@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Flutter, TypeScript and machine learning
 
-- 👯 I’m looking to collaborate on open source notetaking projects
+- 👯 I’m looking to collaborate on open source notetaking projects (think Roam Research, Logseq, Obsidian, Editor.js)
 
 - 💬 Ask me about web dev, music, philosophy :))
 
