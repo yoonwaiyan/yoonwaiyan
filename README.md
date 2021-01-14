@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Ruby on Rails + React projects
 
-- 🌱 I’m currently learning Flutter, TypeScript and machine learning
+- 🌱 I’m currently learning Kubernetes, TypeScript and machine learning
 
 - 👯 I’m looking to collaborate on open source notetaking (think Notion, Roam Research, Obsidian, Editor.js) or mental health related projects
 
