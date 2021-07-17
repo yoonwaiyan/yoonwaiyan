@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Ruby on Rails + React projects
 
-- 🌱 I’m currently learning Kubernetes, TypeScript and machine learning
+- 🌱 I’m currently learning Kubernetes and Elixir + Phoenix
 
 - 👯 I’m looking to collaborate on open source notetaking (think Notion, Roam Research, Obsidian, Editor.js) or mental health related projects
 
@@ -14,5 +14,6 @@
 
 - ⚡️ Languages: mainly Ruby and JavaScript
 
-#### Stats
+
+### Stats
 <img alt="Wai Yan's github stats" src="https://github-readme-stats.vercel.app/api?username=yoonwaiyan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
