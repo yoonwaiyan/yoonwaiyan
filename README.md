@@ -1,6 +1,6 @@
 ### I'm Wai Yan 👋
 
-- 🔭 I’m currently working on Ruby on Rails + React projects
+- 🔭 I’m currently working on Ruby on Rails, React and Elixir based projects
 
 - 🌱 I’m currently learning Kubernetes and Elixir + Phoenix
 
@@ -13,4 +13,3 @@
 - 😄 Pronouns: she/her
 
 - ⚡️ Languages: mainly Ruby and JavaScript
-
