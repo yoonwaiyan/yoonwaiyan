@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Ruby on Rails, React and Elixir based projects
 
-- 🌱 I’m currently learning Kubernetes and Elixir + Phoenix
+- 🌱 I’m currently learning Kubernetes and Rust
 
 - 👯 I’m looking to collaborate on open source notetaking (think Notion, Roam Research, Obsidian, Editor.js) or mental health related projects
 
