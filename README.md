@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Ruby on Rails, React and Elixir based projects
 
-- 🌱 I’m currently learning Kubernetes and Rust
+- 🌱 I’m currently learning Kubernetes
 
 - 👯 I’m looking to collaborate on knowledge management tools
 
@@ -12,4 +12,4 @@
 
 - 😄 Pronouns: she/her
 
-- ⚡️ Languages: mainly Ruby and JavaScript
+- ⚡️ Languages: mainly Ruby, Elixir and JavaScript
