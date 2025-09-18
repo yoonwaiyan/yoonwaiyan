@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Ruby on Rails, React and Elixir based projects
 
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning to solve problems with the use of agentic AI
 
-- 👯 I’m looking to collaborate on knowledge management tools
+- 👯 I’m looking to collaborate on any AI tools
 
 - 💬 Ask me about web dev, music, reading, running, indoor bouldering :))
 
