@@ -1,5 +1,3 @@
-### I'm Wai Yan 👋
-
 # 👋 Hi, I’m Wai Yan  
 
 🔧 **Senior Software Engineer** specializing in **Ruby on Rails, React, and Elixir** with 10+ years of experience building and scaling full-stack web applications.  
