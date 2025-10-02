@@ -46,5 +46,3 @@ Web development, scaling SaaS products, developer experience, climbing, weightli
 ---
 
 😄 Pronouns: **she/her**  
-
-😄 Pronouns: she/her
